@@ -1,16 +1,8 @@
 # calc_app
 
-Calculator app
+Calculator app Flutter <br>
+Dart | Flutter | Android/iOS/Web <br>
+![image](https://github.com/Cblp123/calculatorDart/assets/127989518/ff057f78-c660-469f-8de4-fafa15f5be8b)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
